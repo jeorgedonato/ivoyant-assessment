@@ -16,4 +16,9 @@ Another API2 returns XML and takes takes 10 seconds.
 
 Once the response comes back, the data needs to be merged from both the APIs and sorted based on id. Both the APIs are independent and there is no order in calling the APIs. The code that you implement should be modular, should follow good coding practices, should be optimally designed and should be performance effective.
 
-
+## Project Requirements
+- Typescript
+- NodeJS
+- ReactJS
+- TailwindCSS
+- Axios
